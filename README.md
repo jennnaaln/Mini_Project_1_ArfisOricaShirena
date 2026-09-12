@@ -1,4 +1,9 @@
 # Mini_Project_1_ArfisOricaShirena
 Sistem pengolahan data cuaca 
 
-<img width="636" height="653" alt="Cuplikan layar 2026-09-11 090419" src="https://github.com/user-attachments/assets/517baae5-2caf-4a42-8271-611649d1c04b" />
+#Penjelasan Program
+Sistem pengolahan data cuaca ini pada dasarnya adalah pencatatan dan pengelompokkan cuaca berdasarkan angka suhu. User memasukkaan nilai suhu satu persatu lalu mengetik "selesai" setelah data suhu sudah selesai dimasukkan. Selanjutnya program akan mengelompokkan suhu ke dalam beberapa kategori cuaca; dingin, sejuk, hangat, panas, atau panas terik. User juga dapat menghapus data jika terjadi kesalahan input data atau menambah data baru sebelum hasil akhirnya dicetak. 
+
+#Flowchart
+<img width="792" height="792" alt="FlowChart_Cuaca drawio" src="https://github.com/user-attachments/assets/0620dc30-8fbc-49f4-8c08-323d3d28134c" />
+
