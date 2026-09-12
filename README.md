@@ -23,7 +23,7 @@ Sistem pengolahan data cuaca ini pada dasarnya adalah pencatatan dan pengelompok
 
 #Output ketika user tidak salah menginputkan suhu dan tidak ingin menambahkan suhu (2)
 
-<img width="1231" height="136" alt="Cuplikan layar 2026-09-12 210105" src="https://github.com/user-attachments/assets/d1da173c-b701-41b2-80ba-f95815f41d27" />
+<img width="406" height="54" alt="Cuplikan layar 2026-09-12 211018" src="https://github.com/user-attachments/assets/c39c180d-785d-4ce6-9023-436fd785a067" />
 
 #Hasil akhir (2)
 
@@ -31,7 +31,7 @@ Sistem pengolahan data cuaca ini pada dasarnya adalah pencatatan dan pengelompok
 
 #Output ketika user tidak salah menginputkan suhu tapi ingin menambahkan suhu (3)
 
-<img width="1511" height="271" alt="Cuplikan layar 2026-09-12 210141" src="https://github.com/user-attachments/assets/7ecb82ea-7577-4a70-9644-01da56cfaf98" />
+<img width="380" height="179" alt="Cuplikan layar 2026-09-12 211031" src="https://github.com/user-attachments/assets/ec0cdd54-d6c6-489c-bdbd-4ed1fd132464" />
 
 #Hasil akhir (3)
 
